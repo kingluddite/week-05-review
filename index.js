@@ -7,4 +7,3 @@ function getTime() {
 }
 
 btnEl.addEventListener('click', getTime);
-
